@@ -87,14 +87,3 @@ gulp.task('browser-sync', ['default'], function () {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
